@@ -4,3 +4,6 @@ pytesseract
 Pillow
 SpeechRecognition
 pyaudio
+transformers
+accelerate
+torch
